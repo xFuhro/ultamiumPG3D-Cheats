@@ -11,7 +11,7 @@ Keybinds: L Ctrl + left/right arrow key - adjust aimbot fov
 
 How to use:
 
-Step 1 - Download zx extract from here
+Step 1 - Download Ultamium PG3D from here
 
 Step 2 - Open Pixel Gun 3D and Ultamium DLL INJECTOR 
 
